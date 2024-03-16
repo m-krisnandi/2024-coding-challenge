@@ -1,5 +1,5 @@
 // Coding Challenge 2024
-// 20/366
+// 21/366
 // https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 // After a hard quarter in the office you decide to get some rest on a vacation.
