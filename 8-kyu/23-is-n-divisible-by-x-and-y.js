@@ -1,6 +1,6 @@
 // Coding Challenge 2024
 // 8-kyu
-// https://www.codewars.com/kata/55a70521798b14d4750000a4
+// https://www.codewars.com/kata/5545f109004975ea66000086
 
 // Solution 1
 function isDivisible(n, x, y) {
