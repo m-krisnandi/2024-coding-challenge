@@ -68,6 +68,18 @@ function countPositivesSumNegatives(input) {
 //   return newArr;
 // }
 
+// Solution 5
+// function countPositivesSumNegatives(input) {
+//   if (!input || input.length == 0) return [];
+//   var sum = 0,
+//     count = 0;
+//   input.forEach(function (el) {
+//     if (el > 0) count++;
+//     else sum += el;
+//   });
+//   return [count, sum];
+// }
+
 let testData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15];
 console.log(countPositivesSumNegatives(testData)); // [10, -65]
 
