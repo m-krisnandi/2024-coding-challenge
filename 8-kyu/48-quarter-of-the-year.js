@@ -1,5 +1,5 @@
 // Coding Challenge 2024
-// 7-kyu
+// 8-kyu
 // https://www.codewars.com/kata/5ce9c1000bab0b001134f5af
 
 // Solution 1
