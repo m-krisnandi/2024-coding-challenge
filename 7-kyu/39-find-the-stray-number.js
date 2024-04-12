@@ -1,6 +1,6 @@
 // Coding Challenge 2024
 // 7-kyu
-// https://www.codewars.com/kata/5813d19765d81c592200001a
+// https://www.codewars.com/kata/57f609022f4d534f05000024
 
 // Solution 1
 function stray(numbers) {
